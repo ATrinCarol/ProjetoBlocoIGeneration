@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Usuario\Desktop\Carol\GENERATION\Bloco I\PizzariaGen\.metadata\.plugins\org.eclipse.jdt.core
+4097032534.index
+3883950653.index
+1865797976.index
